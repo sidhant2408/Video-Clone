@@ -1,5 +1,5 @@
 Pacakages installed:
-        vidstream
-        socket
-        threading
+        vidstream,
+        socket,
+        threading,
         tkinter
